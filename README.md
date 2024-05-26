@@ -73,7 +73,7 @@ Feel free to modify and enhance this project as per your requirements. Contribut
 
 ## Author
 
-- Your Name - [GitHub](https://github.com/eshwanthkartitr)
+- Eshwanth Karti T R - [GitHub](https://github.com/eshwanthkartitr)
 
 ---
 
