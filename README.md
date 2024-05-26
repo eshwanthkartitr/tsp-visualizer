@@ -14,11 +14,11 @@ This project is a React-based web application that solves the Travelling Salesma
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/leaflet-map-tsp-solver.git
+   git clone https://github.com/your-username/tsp-visualizer.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd leaflet-map-tsp-solver
+   cd travelling_salesman
    ```
 3. Install the dependencies:
    ```sh
@@ -29,9 +29,9 @@ This project is a React-based web application that solves the Travelling Salesma
 
 1. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5137`.
 
 ## File Structure
 
