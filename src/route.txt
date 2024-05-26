@@ -1,0 +1,246 @@
+
+Head southwest on Centre Street	7 m
+Continue onto Park Row	250 m
+Continue onto Barclay Street	150 m
+Turn right onto Church Street	700 m
+Continue onto 6th Avenue	450 m
+Make a slight left onto Canal Street	250 m
+Take the ramp towards I 78: Holland Tunnel	150 m
+Merge left onto Holland Tunnel (I 78)	3 km
+Continue onto 14th Street (I 78)	700 m
+Keep right towards NJTP: New Jersey Turnpike	15 km
+Take the ramp towards I 95 South: Trenton	1 km
+Keep left at the fork	1 km
+Merge left onto New Jersey Turnpike (I 95)	80 km
+Keep right towards I 95 South: Pennsylvania Turnpike	15 km
+Keep right towards I 95 South: Philadelphia	30 km
+Take exit 22 towards I 676: Central Philadelphia	350 m
+Keep left towards I 676 West: Central Philadelphia	900 m
+Continue onto Vine Street Expressway	1.5 km
+Take the ramp towards PA 611: Broad Street	350 m
+Continue onto North 15th Street	700 m
+You have arrived at your 1st destination	0 m
+Head south on South 15th Street (PA 611)	25 m
+Make a slight left onto South Penn Square (PA 611)	100 m
+Keep left onto South Penn Square	150 m
+Keep left onto East Penn Square (PA 611)	200 m
+Continue onto John F. Kennedy Boulevard	250 m
+Turn right onto North 16th Street	700 m
+Take the ramp on the right towards I 676 West: International Airport	350 m
+Merge left onto Vine Street Expressway (I 676)	1.5 km
+Merge right onto Schuylkill Expressway (I 76)	25 km
+Take exit 328B-A/327 towards US 202: King of Prussia	250 m
+Keep left towards US 202 South: Mall Boulevard	450 m
+Keep left towards Mall Boulevard	400 m
+Keep left towards I 76 West: New Jersey	150 m
+Merge left towards I 76 West: New Jersey	700 m
+Keep left towards I 76 West: Harrisburg	600 m
+Merge left onto Pennsylvania Turnpike (I 76)	550 km
+Continue onto Ohio Turnpike (I 76)	10 km
+Keep left onto Ohio Turnpike (I 76)	400 km
+Continue onto Indiana Toll Road (I 80)	250 km
+Continue onto Chicago Skyway (I 90)	10 km
+Keep left towards I 90 Express	600 m
+Merge left onto Dan Ryan Expressway (Express) (I 90)	7 km
+Take exit 53C towards I 55 North: 22nd Street	700 m
+Keep left towards 22nd Street	900 m
+Turn right onto West Cermak Road	80 m
+Turn left onto South Clark Street	2 km
+Turn right onto West Polk Street	100 m
+Turn left onto South Dearborn Street	500 m
+Turn left onto West Van Buren Street	40 m
+Turn right onto South Federal Street	150 m
+You have arrived at your 2nd destination	0 m
+Head north on South Federal Street	7 m
+Turn right onto West Jackson Boulevard (Hist US 66)	80 m
+Turn right onto South Plymouth Court	150 m
+Turn right onto West Van Buren Street	150 m
+Turn left onto South Clark Street	2.5 km
+Turn right onto West Cermak Road	90 m
+Turn left towards I 55 South	300 m
+Keep left towards I 90 East	900 m
+Keep left towards I 90 Express	350 m
+Merge left onto Dan Ryan Expressway (Express) (I 90)	15 km
+Keep right towards I 57 South: Memphis	300 km
+Keep left towards I 57 South: Memphis	300 km
+Continue onto US 60	70 km
+Keep left onto US 60	10 km
+Continue onto US 67	45 km
+Turn right onto West Main Street (US 62)	45 km
+Continue onto US 67	200 km
+Take the ramp on the left towards I 30 West: Little Rock	8 km
+Keep right onto I 30	40 km
+Continue onto I 30	200 km
+Take the ramp towards I 369 South: Atlanta	6 km
+Take the ramp towards US 59 South: Houston	600 m
+Turn right onto South Lake Drive (TX 93)	1.5 km
+Continue onto US Highway 59 (US 59)	30 km
+Go straight onto Loop 59 (US 59)	3.5 km
+Take the ramp towards US 59 South: Marshall	250 m
+Merge left onto West Main Street (US 59)	4.5 km
+Continue onto US 59	100 km
+Take the ramp	400 m
+Merge left onto Northwest Loop (US 79)	5 km
+Take the ramp onto TX 149	400 m
+Keep right onto TX 149	80 m
+Turn right onto TX 315	40 km
+Turn left onto North Railroad Avenue (US 259)	4 km
+Continue onto US Route 259 (US 259)	5 km
+Continue onto US Highway 259 (US 259)	20 km
+Take the ramp towards US 59 South: Lufkin	70 m
+Continue straight	150 m
+Continue straight	150 m
+Turn left	30 m
+Turn right onto North US Highway 59 (US 59)	1 km
+Continue onto Northwest Stallings Drive (US 59)	10 km
+Take the ramp	350 m
+Turn left onto South Fredonia Street (TX 7 Bus)	450 m
+Turn right onto Meadowbrook Drive	700 m
+Turn right onto South Street (US 59 Bus)	3 km
+Continue onto South US Highway 59 (US 59)	20 km
+Take the ramp towards US 59 Business: Lufkin	250 m
+Continue onto North Timberland Drive	6 km
+Turn left onto South First Street (US 59 Bus)	10 km
+Continue onto North Temple Drive (US 59)	200 km
+Take exit 132 towards I 10 East: Beaumont	300 m
+Keep right towards I 10 West: San Antonio	350 m
+Merge left onto East Freeway (I 10)	2 km
+Take exit 768B on the left towards I 45 South: Galveston	800 m
+Merge left onto Gulf Freeway (I 45)	550 m
+Take exit 47C on the left towards McKinney Street	500 m
+Turn left onto Bagby Street	50 m
+You have arrived at your 3rd destination	0 m
+Head northeast on Bagby Street	50 m
+Turn left onto Walker Street	45 m
+Take the ramp on the left towards I 45 North: Dallas	400 m
+Merge left onto Gulf Freeway (I 45)	1.5 km
+Continue onto North Freeway (I 45)	400 km
+Take exit 284A towards I 30	300 m
+Keep left towards I 30 West	900 m
+Keep right towards I 35E: Denton	200 m
+Keep left towards Convention Center Dallas	200 m
+Continue onto Griffin Street West	400 m
+Turn right onto South Akard Streen	80 m
+Continue slightly right onto South Akard Street	400 m
+Turn right	100 m
+You have arrived at your 4th destination, on the left	0 m
+Head east	90 m
+Turn right onto Browder Street	70 m
+Turn right onto Canton Street	150 m
+Take the ramp on the left towards I 30 West	550 m
+Keep left towards I 35E South: Waco	200 m
+Keep left towards I 35E North: Denton	45 m
+Keep left towards I 35E South: Waco	600 m
+Continue onto South R L Thornton Freeway (I 35E)	900 m
+Continue towards Dallas Zoo	150 km
+Continue onto North Jack Kultgen Expressway (I 35)	10 km
+Continue onto Purple Heart Trail (I 35)	60 km
+Keep left onto I 35	90 km
+Keep left towards 32nd Street	80 km
+Continue onto Interstate Highway 35 (I 35)	3 km
+Continue onto Purple Heart Trail (I 35)	20 km
+Continue onto North Pan Am Expressway (I 35)	15 km
+Keep left towards I 35 South	9 km
+Take exit 158B towards I 37 South: Corpus Christi	1 km
+Merge right onto William J Bordelon Freeway (I 37)	1 km
+Take exit 141A towards Commerce Street	250 m
+Keep right towards Downtown	55 m
+Make a slight right onto East Commerce Street	900 m
+Turn left onto Bankers Lane	9 m
+Turn right	30 m
+You have arrived at your 5th destination	0 m
+Head west	80 m
+Make a U-turn	100 m
+Make a U-turn onto East Commerce Street	700 m
+Turn right onto North Santa Rosa Street	450 m
+Turn left onto West Martin Street	250 m
+Turn right onto North San Saba Street	100 m
+Take the ramp towards I 10 West	250 m
+Merge left onto McDermott Freeway (I 10)	450 m
+Keep left onto McDermott Freeway (I 10)	900 km
+Continue onto Camino Real de Tierra Adentro (I 10)	20 km
+Continue onto Pearl Harbor Memorial Highway (I 10)	250 km
+Continue onto Benson-Steins Pass Highway (I 10)	150 km
+Continue onto Tucson-Benson Highway (I 10)	70 km
+Continue onto South Freeway (I 10)	10 km
+Continue onto Casa Grande-Tucson Highway (I 10)	4.5 km
+Go straight onto North Casa Grande Highway	1.5 km
+Take the ramp on the left	300 m
+Continue onto Casa Grande-Tucson Highway (I 10)	900 m
+Go straight onto North Casa Grande Highway	800 m
+Take the ramp on the left	200 m
+Continue onto Casa Grande-Tucson Highway (I 10)	80 km
+Keep left onto Phoenix-Casa Grande Highway (I 10)	60 km
+Continue onto Maricopa Freeway (I 10)	20 km
+Keep left onto Papago Freeway (I 10)	2.5 km
+Take exit 148 towards Jefferson Street	350 m
+Keep left towards Washington Street	150 m
+Turn left onto East Washington Street	450 m
+Keep left onto East Washington Street	400 m
+Keep left onto East Washington Street	400 m
+Keep left onto East Washington Street	400 m
+Keep left onto East Washington Street	450 m
+Continue straight to stay on East Washington Street	1.5 km
+You have arrived at your 6th destination, on the right	0 m
+Head west on West Washington Street	800 m
+Turn right onto North 7th Avenue	1.5 km
+Take the ramp on the left towards I 10 West: Los Angeles	600 m
+Merge left onto Papago Freeway (I 10)	30 km
+Continue onto Pearl Harbor Memorial Highway (I 10)	20 km
+Take exit 112 towards AZ 85: Yuma	1.5 km
+Continue onto South Oglesby Road (AZ 85)	55 km
+Take the ramp towards AZ-85 South: Gila Bend	5.5 km
+Take the ramp towards I 8 West: San Diego	200 km
+Keep left towards Weigh Station	30 m
+Keep left towards Weigh Station	25 m
+Keep left towards Weigh Station	250 km
+Take exit 14B towards CA 125	400 m
+Keep left towards CA 125 South	1 km
+Merge left onto CA 125	2.5 km
+Take exit 15 on the left towards CA 94 West	600 m
+Merge right onto Martin Luther King Junior Freeway (CA 94)	15 km
+Turn right onto 16th Street	250 m
+Turn left onto Broadway	1 km
+Turn right onto 5th Avenue	250 m
+Turn left onto B Street	80 m
+Turn left onto 4th Avenue	250 m
+You have arrived at your 7th destination	0 m
+Head south on 4th Avenue	4.5 m
+Turn right onto Broadway	250 m
+Turn right onto 1st Avenue	200 m
+Continue straight to stay on 1st Avenue	700 m
+Take the ramp on the left towards I 5 North: Los Angeles	300 m
+Merge left onto San Diego Freeway (I 5)	80 km
+Keep right onto San Diego Freeway (I 5)	30 km
+Keep left onto San Diego Freeway (I 5)	10 km
+Keep left onto San Diego Freeway (I 5)	2 km
+Keep left onto Santa Ana Freeway (I 5)	30 km
+Keep right onto Santa Ana Freeway (I 5)	35 km
+Keep left onto Santa Ana Freeway (US 101)	4.5 km
+Take exit 2B towards Alameda Street	400 m
+Continue onto Arcadia Street	150 m
+Turn left onto North Los Angeles Street	500 m
+Turn right onto East 1st Street	150 m
+You have arrived at your 8th destination, on the left	0 m
+Head northwest on West 1st Street	250 m
+Turn right onto North Broadway	600 m
+Take the ramp on the right towards US 101 North	400 m
+Merge left onto Santa Ana Freeway (US 101)	15 km
+Keep left towards CA 170 North	10 km
+Keep right onto Hollywood Freeway (CA 170)	1.5 km
+Merge left onto Golden State Freeway (I 5)	10 km
+Keep right towards I 5 Truck North	2.5 km
+Keep left onto Golden State Freeway (I 5 Truck)	60 km
+Keep left onto Golden State Freeway (I 5)	35 km
+Keep right towards I 5 North	300 km
+Take exit 403B towards CA 152 West: Gilroy	400 m
+Continue onto CA 152	45 km
+Keep right onto CA 152	20 km
+Take the ramp towards US 101 North: San Jose	800 m
+Merge left onto South Valley Freeway (US 101)	30 km
+Keep left onto US 101	15 km
+Take exit 386A towards Alum Rock Avenue	350 m
+Turn left onto Alum Rock Avenue	150 m
+Continue onto East Santa Clara Street	2.5 km
+Turn right onto North 5th Street	1.5 m
+You have arrived at your destination	0 m
